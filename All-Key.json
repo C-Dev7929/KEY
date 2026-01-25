@@ -8,5 +8,11 @@
     "device_id": "123",
     "key": "456",
     "time": 1769781902.3292816
+  },
+  {
+    "type": "BUMX",
+    "device_id": "DEVICE-8FACAE360E423AA09E7D7B27B20C776A",
+    "key": "123",
+    "time": 1769505831.5969687
   }
 ]
